@@ -4,7 +4,7 @@ def main():
         name = intro
         print ("Whats good ",name[0].upper() + name[1:].lower() + " ya fool")
 
-        q1 = input("Where was ur exact location on the night of 11/03/2019?")
+        q1 = input("Where was ur exact location on 11/03/2019?")
         if q1 == 'school':
             print ("You may go")
 
