@@ -1,7 +1,5 @@
 def main():
-        intro = input("Yo whats good lemme holla at yo name?")
-
-        name = intro
+        name = input("Yo whats good lemme holla at yo name?")
         print ("Whats good ",name[0].upper() + name[1:].lower() + " ya fool")
 
         q1 = input("Where was ur exact location on 11/03/2019?")
